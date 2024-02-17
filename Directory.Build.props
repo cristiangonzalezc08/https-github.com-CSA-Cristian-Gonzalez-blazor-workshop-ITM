@@ -1,6 +1,6 @@
 <Project>
     <PropertyGroup>
-        <AspNetCoreVersion>7.0.0</AspNetCoreVersion>
+        <AspNetCoreVersion>8.0.0</AspNetCoreVersion>
         <BlazorVersion>7.0.0</BlazorVersion>
         <EntityFrameworkVersion>7.0.0</EntityFrameworkVersion>
         <TargetFrameworkVersion>net7.0</TargetFrameworkVersion>
